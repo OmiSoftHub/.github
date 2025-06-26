@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.jpg" alt="OmiSoft Banner" width="100%" />
+  <img src="../banner.jpg" alt="OmiSoft Banner" width="100%" />
 </p>
 
 <h1 align="center">Welcome to OmiSoft 👋</h1>
